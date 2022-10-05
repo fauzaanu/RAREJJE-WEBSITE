@@ -1,0 +1,23 @@
+module.exports = {
+  content: ['./src/**/*.{html,js}'],
+  purge: [],
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    extend: {
+      fontFamily: {
+        'title': ['Sansita', 'sans-serif'],
+        'body' : ['Lato','sans-serif']
+      },
+      colors: {
+        'rry': '#FFD236',
+        'rrb': '#01B3B7',
+        'rrg': '#91AF36',
+        'our-bg': '#D9E6FF'
+      }
+    },
+  },
+  variants: {
+    extend: {},
+  },
+  plugins: [],
+}
