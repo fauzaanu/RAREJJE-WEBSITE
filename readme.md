@@ -1,4 +1,11 @@
-# RAREJJE NAV BAR - A TAILWIND CSS PRACTICE PRJECT FOR DJANGO
+# TAILWIND CSS PRACTICE PROJECT
+This is a practice project to learn to build a full website using tailwindcss.
+
+This is going to be the main frontend. 
+
+Will be later deployed with django. 
+
+Aim is to make the html files in an easy way to work with django templating Language and the structure of backend
 
 Everything was done as per docs with some exceptions
 
